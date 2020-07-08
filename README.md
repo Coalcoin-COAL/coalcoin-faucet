@@ -1,5 +1,5 @@
-# yenten-faucet
-Yenten coin faucet (php) for all coin
+# coalcoin-faucet
+Coalcoin coin faucet (php) for all coin
 
 
 В файле index.php указываем логин и пароль от RPC кошелька и если надо то поменять стандартный порт 9982
